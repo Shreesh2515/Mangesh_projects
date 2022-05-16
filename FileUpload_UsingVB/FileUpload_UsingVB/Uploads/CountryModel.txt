@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <CountryModel>
+    <Country>
+      <ID>1</ID>
+      <COUNTRY>India</COUNTRY>
+      <POPULATION>20000</POPULATION>
+    </Country>
+    <Country>
+      <ID>2</ID>
+      <COUNTRY>Pakistan</COUNTRY>
+      <POPULATION>30000</POPULATION>
+    </Country>
+    <Country>
+      <ID>3</ID>
+      <COUNTRY>Sri Lanka</COUNTRY>
+      <POPULATION>40000</POPULATION>
+    </Country>
+    <Country>
+      <ID>4</ID>
+      <COUNTRY>Nepal</COUNTRY>
+      <POPULATION>50000</POPULATION>
+    </Country>
+    <Country>
+      <ID>5</ID>
+      <COUNTRY>Bhutan</COUNTRY>
+      <POPULATION>60000</POPULATION>
+    </Country>
+  </CountryModel>
