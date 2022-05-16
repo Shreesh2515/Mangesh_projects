@@ -1,0 +1,10 @@
+﻿var var1 = 45;
+var var2 = 78;
+var var3 = 45.10;
+var var4 = 178.12;
+var newvar = var1 + var2;
+var newvar1 = var3 + var4;
+var newParagraph3 = document.createElement("p");
+var newText3 = document.createTextNode("var1 + var2 = " + newvar + " and var3 + var4 = " + newvar1);
+newParagraph3.appendChild(newText3);
+document.body.appendChild(newParagraph3);
